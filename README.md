@@ -1,6 +1,9 @@
 # CraneControl
  Scada attack simulator. Integration: GE FANUC + crane toy for kids + GUI for manual/automated control. 
 
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)]([https://youtu.be/vt5fpE0bzSY](https://www.youtube.com/watch?v=x-_zV9VEpoc))
+
+
 ![PLC](/jpg/plc.jpg)
 
 
