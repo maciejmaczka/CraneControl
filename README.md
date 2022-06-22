@@ -5,8 +5,8 @@
 
 
 
-[Crane](/jpg/crane.jpg)
+![Crane](/jpg/crane.jpg)
 
 
 
-[HMI](/jpg/control.jpg)
+![HMI](/jpg/control.jpg)
