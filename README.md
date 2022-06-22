@@ -7,6 +7,7 @@ Scada attack simulator. Integration: GE FANUC + crane toy for kids + GUI for man
 [![Watch the video](/jpg/action.jpg)](https://www.youtube.com/watch?v=x-_zV9VEpoc) 
 
 
+# Photo
 
 ![PLC](/jpg/plc.jpg)
 
@@ -18,15 +19,3 @@ Scada attack simulator. Integration: GE FANUC + crane toy for kids + GUI for man
 
 ![HMI](/jpg/control1.jpg)
 
-
-
-# SRC
-HMI code
-
-
-# JPG
-Claroty output
-
-
-# Check Point
-Integration with Check Point SMB 15xx 
