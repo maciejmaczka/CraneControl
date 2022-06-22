@@ -1,0 +1,42 @@
+$CPDIR/bin/cprid_util -server 192.168.30.150 -verbose rexec -rcmd /bin/bash -c "LOGNAME=admin bashUser on"
+
+bashUser on
+
+
+mkdir -p /.ssh
+chown root /
+touch /storage/authorized_keys
+chmod 600 /storage/authorized_keys
+ln -sf /storage/authorized_keys /.ssh/authorized_keys
+
+
+lm set_config force_allocate_ptty False
+
+
+
+
+
+
+
+
+
+
+Trash
+
+
+  1  cat /var/log/messages
+    2  tail -f cat /var/log/messages
+    3  chown root /
+    4  mkdir -p /.ssh
+    5  chmod 600 /storage/authorized_keys
+    6  touch /storage/authorized_keys
+    7  chmod 600 /storage/authorized_keys
+    8  ln -sf /storage/authorized_keys /.ssh/authorized_keys
+    9  ls
+   10  cd .ssh/authorized_keys
+   11  cat  .ssh/authorized_keys
+   12  tail -f cat /var/log/messages
+   13  history
+
+
+/pfrm2.0/bin/sshd
